@@ -10,4 +10,4 @@ class Hooks extends Component {
   }
 }
 
-export default Hooks
+export default Hooks;
