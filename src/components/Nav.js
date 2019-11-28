@@ -7,9 +7,7 @@ class Nav extends Component {
   render() {
     return (
       <div>
-        <Home></Home>
-        <About></About>
-        <MyWorks></MyWorks>
+        <Home></Home><About></About><MyWorks></MyWorks>
       </div>
       
     )
